@@ -1,0 +1,70 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<title>Lakeside Jazz Festival 2025</title>
+<style>
+body {
+  background-image: url('https://media.discordapp.net/attachments/1032113374420549692/1365517095265370164/image5-min.png?ex=680d9865&is=680c46e5&hm=f6715c1dec4baa9dcabeac6a0ae7302ddd59f31325b0438208c7c3dbdb7baeac&=&format=webp');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  h1{font-family:Arial, sans-serif;color:#000000;background-color:#ffffff;}
+  p {font-family:Arial, sans-serif;font-size:50px;font-style:normal;font-weight:bold;color:#ff6b69;}
+}
+.button {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: white;
+  color: black;
+  border: 2px solid #54c1f7;
+}
+
+.button1:hover {
+  background-color: #54c1f7;
+  color: white;
+}
+
+.button2 {
+  background-color: white;
+  color: black;
+  border: 2px solid #f7a71b;
+}
+
+.button2:hover {
+  background-color: #f7a71b;
+  color: white;
+}
+
+.button3 {
+  background-color: white;
+  color: black;
+  border: 2px solid #832cf5;
+}
+
+.button3:hover {
+  background-color: #832cf5;
+  color: white;
+}
+
+</style>
+<p>Click to load a chart!</p>
+</head>
+<body>
+
+<form action="https://www.google.com"><button type="submit" class="button button1">Swing Shift</button></form>
+<form action="https://www.google.com"><button type="submit" class="button button2">Just When I'm Thinkin' 'Bout You</button></form>
+<form action="https://www.google.com"><button type="submit" class="button button3">Apollo's Reel</button></form>
+
+</body>
+</html> 
